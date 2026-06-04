@@ -13,4 +13,13 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-5/blob/main/Exp5_Prompting_Patterns%20(1).pptx
+
 RESULT: 
+
+
+
+The experiment was successfully conducted by comparing ChatGPT’s responses to naïve prompts and basic (structured) prompts across multiple test scenarios, including creative writing, factual question answering, summarization, and recommendation tasks. The results showed that basic prompts consistently produced responses with higher quality, better accuracy, greater depth, and improved relevance compared to naïve prompts. Structured prompts provided clearer context and instructions, enabling the AI model to generate more detailed and focused outputs. While naïve prompts were adequate for simple tasks, they often resulted in shorter and less precise responses. The analysis demonstrated that prompt clarity and specificity significantly influence the effectiveness of AI-generated content, highlighting the importance of well-designed prompts for achieving optimal results.
+
+
+
