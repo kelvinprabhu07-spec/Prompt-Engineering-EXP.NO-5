@@ -13,8 +13,7 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
-https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-5/blob/main/Exp5_Prompting_Patterns%20(1).pptx
-
+https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-5/blob/main/experiment%20-%205.pdf
 RESULT: 
 
 
